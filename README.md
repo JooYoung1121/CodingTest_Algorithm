@@ -9,7 +9,7 @@
 
 
 ## 알고리즘 사이트 
-  [백준](https://www.acmicpc.net)  
-  [프로그래머스](https://programmers.co.kr/learn/challenges)  
-  [삼성 아카데미](https://swexpertacademy.com/main/main.do)  
-  [해커랭크](https://www.hackerrank.com/)  
+  - [백준](https://www.acmicpc.net)  
+  - [프로그래머스](https://programmers.co.kr/learn/challenges)  
+  - [삼성 아카데미](https://swexpertacademy.com/main/main.do)  
+  - [해커랭크](https://www.hackerrank.com/)  
