@@ -8,8 +8,18 @@
  - 코테 준비중..
 
 
-## 알고리즘 사이트 
+## 공부한 알고리즘 사이트 
   - [백준](https://www.acmicpc.net)  
   - [프로그래머스](https://programmers.co.kr/learn/challenges)  
   - [삼성 아카데미](https://swexpertacademy.com/main/main.do)  
   - [해커랭크](https://www.hackerrank.com/)  
+
+## 풀이 완료한 문제 번호 
+### 백준
+ - 확인중
+### 프로그래머스
+  - 확인중
+### 삼성 아카데미
+  - 확인중
+### 해커랭크
+  - 확인중
