@@ -7,18 +7,18 @@ using namespace std;
 vector<string> solution(int n, vector<int> arr1, vector<int> arr2) {
 	vector<string> answer;
 
-	int map1[16][16];
-	int map2[16][16];
+	int map1[17][17];
+	int map2[17][17];
 
-	for (int i = 0; i < 16; i++) {
-		for (int j = 0; j < 16; j++) {
+	for (int i = 0; i < 17; i++) {
+		for (int j = 0; j < 17; j++) {
 			map1[i][j] = 0;
 			map2[i][j] = 0;
 		}
 	}
 
 	for (int i = 0; i < n; i++) {
-		vector<int> tmp1,tmp2;
+		vector<int> tmp1, tmp2;
 		int num = arr1[i];
 		int num2 = arr2[i];
 		while (num != 0) {
@@ -34,12 +34,12 @@ vector<string> solution(int n, vector<int> arr1, vector<int> arr2) {
 		reverse(tmp1.begin(), tmp1.end());
 		reverse(tmp2.begin(), tmp2.end());
 
-		int cnt = n-1;
+		int cnt = n - 1;
 		for (int j = tmp1.size() - 1; j >= 0; j--) {
 			map1[i][cnt] = tmp1[j];
 			cnt--;
 		}
-		cnt = n-1;
+		cnt = n - 1;
 		for (int j = tmp2.size() - 1; j >= 0; j--) {
 			map2[i][cnt] = tmp2[j];
 			cnt--;

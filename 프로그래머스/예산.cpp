@@ -4,15 +4,13 @@
 #include <algorithm>
 using namespace std;
 
-#define MAX 1000000000
-
 int solution(vector<int> budgets, int M) {
 	int answer = 0;
 	int low = 0;
 	int high = M;
-	int _max = 0;
+	long long _max = 0;
 
-	int sum = 0;
+	long long sum = 0;
 	int tmp = 0;
 	for (int i = 0; i < budgets.size(); i++) {
 		sum += budgets[i];
@@ -27,7 +25,7 @@ int solution(vector<int> budgets, int M) {
 
 	while (low < high) {
 		int mid = (low + high) / 2;
-		int sum = 0;
+		long long sum = 0;
 
 		for (int i = 0; i < budgets.size(); i++) {
 			int cost;
