@@ -23,11 +23,8 @@
 | 문제 | 코드 |
 | ------------- |:-------------:|
 | [2*n 타일링](https://programmers.co.kr/learn/courses/30/lessons/12900) | [cpp](프로그래머스/2n타일링.cpp)|
-| [2*n 타일링](https://programmers.co.kr/learn/courses/30/lessons/12900) | [cpp](프로그래머스/2n타일링.cpp)|
-| [2*n 타일링](https://programmers.co.kr/learn/courses/30/lessons/12900) | [cpp](프로그래머스/2n타일링.cpp)|
-| [2*n 타일링](https://programmers.co.kr/learn/courses/30/lessons/12900) | [cpp](프로그래머스/2n타일링.cpp)|
-| [2*n 타일링](https://programmers.co.kr/learn/courses/30/lessons/12900) | [cpp](프로그래머스/2n타일링.cpp)|
-| [2*n 타일링](https://programmers.co.kr/learn/courses/30/lessons/12900) | [cpp](프로그래머스/2n타일링.cpp)|
+| [3*n 타일링](https://programmers.co.kr/learn/courses/30/lessons/12902) | [cpp](프로그래머스/3n타일링.cpp)|
+| [4단 고음](https://programmers.co.kr/learn/courses/30/lessons/1831) | [cpp](프로그래머스/4단 고음.cpp)|
 
 
 ### 프로그래머스
