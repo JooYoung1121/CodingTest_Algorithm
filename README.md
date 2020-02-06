@@ -30,8 +30,8 @@
  - 1074, 1135, 1188, 1309, 1325, 1348, 1475, 1507, 1620, 1637, 1669, 1671, 1672, 1722, 1730, 1735, 1756, 1786, 1806, 1837, 1904, 1915, 1916, 1920, 1922, 1932, 1937, 1951, 1965, 1991, 2003 ~~ 확인중
  
 ### 프로그래머스 
-| 문제 | 코드 |
-| ------------- |:-------------:|
+| 문제 | 코드 | 문제 | 코드 |
+| ------------- |:-------------:|:-------------:|:-------------:|
 | [2*n 타일링](https://programmers.co.kr/learn/courses/30/lessons/12900) | [cpp](프로그래머스/2n타일링.cpp)| [3*n 타일링](https://programmers.co.kr/learn/courses/30/lessons/12902) | [cpp](프로그래머스/3n타일링.cpp)|
 | [4단 고음](https://programmers.co.kr/learn/courses/30/lessons/1831) | [cpp](프로그래머스/4단_고음.cpp)| [124나라의숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) | [cpp](프로그래머스/124나라의_숫자.cpp)|
 | [H_index](https://programmers.co.kr/learn/courses/30/lessons/42747) | [cpp](프로그래머스/H_index.cpp)| [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | [cpp](프로그래머스/K번째수.cpp)|
