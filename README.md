@@ -82,38 +82,38 @@
 | [H_index](https://programmers.co.kr/learn/courses/30/lessons/42747) | [cpp](프로그래머스/H_index.cpp)| [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | [cpp](프로그래머스/K번째수.cpp)|
 | [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) | [cpp](프로그래머스/n으로_표현.cpp)| [N진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687) | [cpp](프로그래머스/n진수_게임.cpp)|
 | [가사검색](https://programmers.co.kr/learn/courses/30/lessons/60060) | [cpp](프로그래머스/가사검색.cpp)| [가장먼노드](https://programmers.co.kr/learn/courses/30/lessons/49189) | [cpp](프로그래머스/가장먼노드.cpp)|
-| [게임맵최단거리](https://programmers.co.kr/learn/courses/30/lessons/60060) | [cpp](프로그래머스/게임맵최단거리.cpp)| [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/49189) | [cpp](프로그래머스/괄호_변환.cpp)|
-| [구명보트](https://programmers.co.kr/learn/courses/30/lessons/60060) | [cpp](프로그래머스/구명보트.cpp)| [기능개발](https://programmers.co.kr/learn/courses/30/lessons/49189) | [cpp](프로그래머스/기능개발.cpp)|
-| [기둥과 보 설치](https://programmers.co.kr/learn/courses/30/lessons/60060) | [cpp](프로그래머스/기둥과_보_설치.cpp)| [길 찾기 게임](https://programmers.co.kr/learn/courses/30/lessons/49189) | [cpp](프로그래머스/길_찾기_게임.cpp)|
-| [네트워크](https://programmers.co.kr/learn/courses/30/lessons/60060) | [cpp](프로그래머스/네트워크.cpp)| [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/49189) | [cpp](프로그래머스/단속카메라.cpp)|
-| [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/60060) | [cpp](프로그래머스/단어_변환.cpp)| [단체사진찍기](https://programmers.co.kr/learn/courses/30/lessons/49189) | [cpp](프로그래머스/단체사진찍기.cpp)|
-| [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/60060) | [cpp](프로그래머스/더_맵게.cpp)| [도둑질](https://programmers.co.kr/learn/courses/30/lessons/49189) | [cpp](프로그래머스/도둑질.cpp)|
-| [등굣길](https://programmers.co.kr/learn/courses/30/lessons/60060) | [cpp](프로그래머스/등굣길.cpp)| [라면공장](https://programmers.co.kr/learn/courses/30/lessons/49189) | [cpp](프로그래머스/라면공장.cpp)|
-| [리틀 프렌즈 사천성](https://programmers.co.kr/learn/courses/30/lessons/60060) | [cpp](프로그래머스/리틀_프렌즈_사천성.cpp)| [멀쩡한사각형](https://programmers.co.kr/learn/courses/30/lessons/49189) | [cpp](프로그래머스/멀쩡한사각형.cpp)|
-| [모의고사](https://programmers.co.kr/learn/courses/30/lessons/60060) | [cpp](프로그래머스/모의고사.cpp)| [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/49189) | [cpp](프로그래머스/문자열_압축.cpp)|
-| [방금 그곡](https://programmers.co.kr/learn/courses/30/lessons/60060) | [cpp](프로그래머스/방금_그곡.cpp)| [방문 길이](https://programmers.co.kr/learn/courses/30/lessons/49189) | [cpp](프로그래머스/방문_길이.cpp)|
-| [배달](https://programmers.co.kr/learn/courses/30/lessons/60060) | [cpp](프로그래머스/배달.cpp)| [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/49189) | [cpp](프로그래머스/베스트앨범.cpp)|
-| [보행자천국](https://programmers.co.kr/learn/courses/30/lessons/60060) | [cpp](프로그래머스/보행자천국.cpp)| [블록 이동하기](https://programmers.co.kr/learn/courses/30/lessons/49189) | [cpp](프로그래머스/블록_이동하기.cpp)|
-| [블록게임](https://programmers.co.kr/learn/courses/30/lessons/60060) | [cpp](프로그래머스/블록게임.cpp)| [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/49189) | [cpp](프로그래머스/비밀지도.cpp)|
-| [서울에서 경산까지](https://programmers.co.kr/learn/courses/30/lessons/60060) | [cpp](프로그래머스/서울에서_경산까지.cpp)| [선입선출스케줄링](https://programmers.co.kr/learn/courses/30/lessons/49189) | [cpp](프로그래머스/선입선출스케줄링.cpp)|
-| [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/60060) | [cpp](프로그래머스/섬_연결하기.cpp)| [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/49189) | [cpp](프로그래머스/소수_찾기.cpp)|
-| [쇠막대기](https://programmers.co.kr/learn/courses/30/lessons/60060) | [cpp](프로그래머스/쇠막대기.cpp)| [숫자 게임](https://programmers.co.kr/learn/courses/30/lessons/49189) | [cpp](프로그래머스/숫자_게임.cpp)|
-| [숫자 야구](https://programmers.co.kr/learn/courses/30/lessons/60060) | [cpp](프로그래머스/숫자_야국.cpp)| [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49189) | [cpp](프로그래머스/스킬트리.cpp)|
-| [야근 지수](https://programmers.co.kr/learn/courses/30/lessons/60060) | [cpp](프로그래머스/야근_지수.cpp)| [여행경로](https://programmers.co.kr/learn/courses/30/lessons/49189) | [cpp](프로그래머스/여행경로.cpp)|
-| [예산](https://programmers.co.kr/learn/courses/30/lessons/60060) | [cpp](프로그래머스/예산.cpp)| [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/49189) | [cpp](프로그래머스/완주하지_못한_선수.cpp)|
-| [외벽점검](https://programmers.co.kr/learn/courses/30/lessons/60060) | [cpp](프로그래머스/외벽점검.cpp)| [위장](https://programmers.co.kr/learn/courses/30/lessons/49189) | [cpp](프로그래머스/위장.cpp)|
-| [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/60060) | [cpp](프로그래머스/이중우선순위큐.cpp)| [입국심사](https://programmers.co.kr/learn/courses/30/lessons/49189) | [cpp](프로그래머스/입국심사.cpp)|
-| [자동 완성](https://programmers.co.kr/learn/courses/30/lessons/60060) | [cpp](프로그래머스/자동_완성.cpp)| [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/49189) | [cpp](프로그래머스/자물쇠와_열쇠.cpp)|
-| [저울](https://programmers.co.kr/learn/courses/30/lessons/60060) | [cpp](프로그래머스/저울.cpp)| [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/49189) | [cpp](프로그래머스/전화번호_목록.cpp)|
-| [정수삼각형](https://programmers.co.kr/learn/courses/30/lessons/60060) | [cpp](프로그래머스/정수삼각형.cpp)| [종이접기](https://programmers.co.kr/learn/courses/30/lessons/49189) | [cpp](프로그래머스/종이접기.cpp)|
-| [주식가격](https://programmers.co.kr/learn/courses/30/lessons/60060) | [cpp](프로그래머스/주식가격.cpp)| [지형이동](https://programmers.co.kr/learn/courses/30/lessons/49189) | [cpp](프로그래머스/지형이동.cpp)|
-| [징검다리](https://programmers.co.kr/learn/courses/30/lessons/60060) | [cpp](프로그래머스/징검다리.cpp)| [체육복](https://programmers.co.kr/learn/courses/30/lessons/49189) | [cpp](프로그래머스/체육복.cpp)|
-| [최고의 집합](https://programmers.co.kr/learn/courses/30/lessons/60060) | [cpp](프로그래머스/최고의_집합.cpp)| [추석트래픽](https://programmers.co.kr/learn/courses/30/lessons/49189) | [cpp](프로그래머스/추석트래픽.cpp)|
-| [카드게임](https://programmers.co.kr/learn/courses/30/lessons/60060) | [cpp](프로그래머스/카드게임.cpp)| [카카오프렌즈컬러링북](https://programmers.co.kr/learn/courses/30/lessons/49189) | [cpp](프로그래머스/카카오프렌즈컬러링북.cpp)|
-| [카펫](https://programmers.co.kr/learn/courses/30/lessons/60060) | [cpp](프로그래머스/카펫.cpp)| [큰수만들기](https://programmers.co.kr/learn/courses/30/lessons/49189) | [cpp](프로그래머스/큰수만들기.cpp)|
-| [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/60060) | [cpp](프로그래머스/타겟_넘버.cpp)| [타일 장식물](https://programmers.co.kr/learn/courses/30/lessons/49189) | [cpp](프로그래머스/타일_장식물.cpp)|
-| [탑](https://programmers.co.kr/learn/courses/30/lessons/60060) | [cpp](프로그래머스/탑.cpp)| [파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/49189) | [cpp](프로그래머스/파일명_정렬.cpp)|
-| [프린터](https://programmers.co.kr/learn/courses/30/lessons/60060) | [cpp](프로그래머스/프린터.cpp)|
+| [게임맵최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844) | [cpp](프로그래머스/게임맵최단거리.cpp)| [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) | [cpp](프로그래머스/괄호_변환.cpp)|
+| [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) | [cpp](프로그래머스/구명보트.cpp)| [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | [cpp](프로그래머스/기능개발.cpp)|
+| [기둥과 보 설치](https://programmers.co.kr/learn/courses/30/lessons/60061) | [cpp](프로그래머스/기둥과_보_설치.cpp)| [길 찾기 게임](https://programmers.co.kr/learn/courses/30/lessons/42892) | [cpp](프로그래머스/길_찾기_게임.cpp)|
+| [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) | [cpp](프로그래머스/네트워크.cpp)| [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/43162) | [cpp](프로그래머스/단속카메라.cpp)|
+| [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163) | [cpp](프로그래머스/단어_변환.cpp)| [단체사진찍기](https://programmers.co.kr/learn/courses/30/lessons/1835) | [cpp](프로그래머스/단체사진찍기.cpp)|
+| [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) | [cpp](프로그래머스/더_맵게.cpp)| [도둑질](https://programmers.co.kr/learn/courses/30/lessons/42897) | [cpp](프로그래머스/도둑질.cpp)|
+| [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898) | [cpp](프로그래머스/등굣길.cpp)| [라면공장](https://programmers.co.kr/learn/courses/30/lessons/42629) | [cpp](프로그래머스/라면공장.cpp)|
+| [리틀 프렌즈 사천성](https://programmers.co.kr/learn/courses/30/lessons/1836) | [cpp](프로그래머스/리틀_프렌즈_사천성.cpp)| [멀쩡한사각형](https://programmers.co.kr/learn/courses/30/lessons/62048) | [cpp](프로그래머스/멀쩡한사각형.cpp)|
+| [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) | [cpp](프로그래머스/모의고사.cpp)| [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) | [cpp](프로그래머스/문자열_압축.cpp)|
+| [방금 그곡](https://programmers.co.kr/learn/courses/30/lessons/17683) | [cpp](프로그래머스/방금_그곡.cpp)| [방문 길이](https://programmers.co.kr/learn/courses/30/lessons/49994) | [cpp](프로그래머스/방문_길이.cpp)|
+| [배달](https://programmers.co.kr/learn/courses/30/lessons/12978) | [cpp](프로그래머스/배달.cpp)| [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) | [cpp](프로그래머스/베스트앨범.cpp)|
+| [보행자천국](https://programmers.co.kr/learn/courses/30/lessons/1832) | [cpp](프로그래머스/보행자천국.cpp)| [블록 이동하기](https://programmers.co.kr/learn/courses/30/lessons/60063) | [cpp](프로그래머스/블록_이동하기.cpp)|
+| [블록게임](https://programmers.co.kr/learn/courses/30/lessons/42894) | [cpp](프로그래머스/블록게임.cpp)| [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) | [cpp](프로그래머스/비밀지도.cpp)|
+| [서울에서 경산까지](https://programmers.co.kr/learn/courses/30/lessons/42899) | [cpp](프로그래머스/서울에서_경산까지.cpp)| [선입선출스케줄링](https://programmers.co.kr/learn/courses/30/lessons/12920) | [cpp](프로그래머스/선입선출스케줄링.cpp)|
+| [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861) | [cpp](프로그래머스/섬_연결하기.cpp)| [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921) | [cpp](프로그래머스/소수_찾기.cpp)|
+| [쇠막대기](https://programmers.co.kr/learn/courses/30/lessons/42585) | [cpp](프로그래머스/쇠막대기.cpp)| [숫자 게임](https://programmers.co.kr/learn/courses/30/lessons/12987) | [cpp](프로그래머스/숫자_게임.cpp)|
+| [숫자 야구](https://programmers.co.kr/learn/courses/30/lessons/42841) | [cpp](프로그래머스/숫자_야국.cpp)| [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993) | [cpp](프로그래머스/스킬트리.cpp)|
+| [야근 지수](https://programmers.co.kr/learn/courses/30/lessons/12927) | [cpp](프로그래머스/야근_지수.cpp)| [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) | [cpp](프로그래머스/여행경로.cpp)|
+| [예산](https://programmers.co.kr/learn/courses/30/lessons/12982) | [cpp](프로그래머스/예산.cpp)| [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) | [cpp](프로그래머스/완주하지_못한_선수.cpp)|
+| [외벽점검](https://programmers.co.kr/learn/courses/30/lessons/60062) | [cpp](프로그래머스/외벽점검.cpp)| [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | [cpp](프로그래머스/위장.cpp)|
+| [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628) | [cpp](프로그래머스/이중우선순위큐.cpp)| [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) | [cpp](프로그래머스/입국심사.cpp)|
+| [자동 완성](https://programmers.co.kr/learn/courses/30/lessons/17685) | [cpp](프로그래머스/자동_완성.cpp)| [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059) | [cpp](프로그래머스/자물쇠와_열쇠.cpp)|
+| [저울](https://programmers.co.kr/learn/courses/30/lessons/42886) | [cpp](프로그래머스/저울.cpp)| [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) | [cpp](프로그래머스/전화번호_목록.cpp)|
+ | [정수삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) | [cpp](프로그래머스/정수삼각형.cpp)| [종이접기](https://programmers.co.kr/learn/courses/30/lessons/62049) | [cpp](프로그래머스/종이접기.cpp)|
+| [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) | [cpp](프로그래머스/주식가격.cpp)| [지형이동](https://programmers.co.kr/learn/courses/30/lessons/62050) | [cpp](프로그래머스/지형이동.cpp)|
+| [징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236) | [cpp](프로그래머스/징검다리.cpp)| [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) | [cpp](프로그래머스/체육복.cpp)|
+| [최고의 집합](https://programmers.co.kr/learn/courses/30/lessons/12938) | [cpp](프로그래머스/최고의_집합.cpp)| [추석트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676) | [cpp](프로그래머스/추석트래픽.cpp)|
+| [카드게임](https://programmers.co.kr/learn/courses/30/lessons/42896) | [cpp](프로그래머스/카드게임.cpp)| [카카오프렌즈컬러링북](https://programmers.co.kr/learn/courses/30/lessons/1836) | [cpp](프로그래머스/카카오프렌즈컬러링북.cpp)|
+| [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) | [cpp](프로그래머스/카펫.cpp)| [큰수만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) | [cpp](프로그래머스/큰수만들기.cpp)|
+| [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | [cpp](프로그래머스/타겟_넘버.cpp)| [타일 장식물](https://programmers.co.kr/learn/courses/30/lessons/43104) | [cpp](프로그래머스/타일_장식물.cpp)|
+| [탑](https://programmers.co.kr/learn/courses/30/lessons/42588) | [cpp](프로그래머스/탑.cpp)| [파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686) | [cpp](프로그래머스/파일명_정렬.cpp)|
+| [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) | [cpp](프로그래머스/프린터.cpp)|
 
 ### 삼성 아카데미
   - 확인중
