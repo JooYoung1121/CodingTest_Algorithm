@@ -1,7 +1,5 @@
 #include <iostream>
-#include <Windows.h>
 using namespace std;
-
 
 int main() {
 	int A, B, V;
@@ -19,6 +17,5 @@ int main() {
 
 	cout << result;
 
-	system("pause");
 	return 0;
 }
