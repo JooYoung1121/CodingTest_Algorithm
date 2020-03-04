@@ -2,7 +2,7 @@
 
 ## 알고리즘 공부하면서 풀었던 문제들을 업로드하고 있습니다.
 
- - 중간중간 못푼 문제들도 일단은 올려놨기 때문에 정확한 답이 아닐 수 있습니다. 
+ - 정확한 답이 아닐 수 있습니다. 
 
  - 참고가 되셨다면 스타 부탁드려요!!
  
@@ -71,10 +71,9 @@
 | [16956](https://www.acmicpc.net/problem/16956) | [cpp](백준/16956.cpp)|[17095](https://www.acmicpc.net/problem/17095) | [cpp](백준/17095.cpp)|[17135](https://www.acmicpc.net/problem/17135) | [cpp](백준/17135.cpp)|
 | [17204](https://www.acmicpc.net/problem/17204) | [cpp](백준/17204.cpp)|[17269](https://www.acmicpc.net/problem/17269) | [cpp](백준/17269.cpp)|[17293](https://www.acmicpc.net/problem/17293) | [cpp](백준/17293.cpp)|
 | [17389](https://www.acmicpc.net/problem/17389) | [cpp](백준/17389.cpp)|[17436](https://www.acmicpc.net/problem/17436) | [cpp](백준/17436.cpp)|
-## 여기서부턴 순서대로 입력 안하고 푼 문제 순으로 업데이트 하겠습니다.
 
  
-### 프로그래머스 (링크는 아직 틀릴 수 있습니다.)
+### 프로그래머
 | 문제 | 코드 | 문제 | 코드 |
 | ------------- |:-------------:|:-------------:|:-------------:|
 | [2*n 타일링](https://programmers.co.kr/learn/courses/30/lessons/12900) | [cpp](프로그래머스/2n타일링.cpp)| [3*n 타일링](https://programmers.co.kr/learn/courses/30/lessons/12902) | [cpp](프로그래머스/3n타일링.cpp)|
