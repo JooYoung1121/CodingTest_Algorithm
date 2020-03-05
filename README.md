@@ -19,6 +19,8 @@
 
 ## 풀이 완료한 문제 
 ### 백준
+## 3/4 기준으로 푼 순서대로 입력하겠습니다.
+
 | 문제 | 코드 | 문제 | 코드 | 문제 | 코드 |
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | [1010](https://www.acmicpc.net/problem/1010) | [cpp](백준/1010.cpp)|[1012](https://www.acmicpc.net/problem/1012) | [cpp](백준/1012.cpp)|[1057](https://www.acmicpc.net/problem/1057) | [cpp](백준/1057.cpp)|
@@ -71,7 +73,7 @@
 | [16956](https://www.acmicpc.net/problem/16956) | [cpp](백준/16956.cpp)|[17095](https://www.acmicpc.net/problem/17095) | [cpp](백준/17095.cpp)|[17135](https://www.acmicpc.net/problem/17135) | [cpp](백준/17135.cpp)|
 | [17204](https://www.acmicpc.net/problem/17204) | [cpp](백준/17204.cpp)|[17269](https://www.acmicpc.net/problem/17269) | [cpp](백준/17269.cpp)|[17293](https://www.acmicpc.net/problem/17293) | [cpp](백준/17293.cpp)|
 | [17389](https://www.acmicpc.net/problem/17389) | [cpp](백준/17389.cpp)|[17436](https://www.acmicpc.net/problem/17436) | [cpp](백준/17436.cpp)|
-
+| [3860](https://www.acmicpc.net/problem/3860) | [cpp](백준/3860.cpp)|
  
 ### 프로그래머
 | 문제 | 코드 | 문제 | 코드 |
