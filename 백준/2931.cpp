@@ -3,7 +3,7 @@
 #include <queue>
 #include <string>
 using namespace std;
- // 메모리초과 문제
+
 #define MAX 30
 typedef pair<int, int> p;
 
