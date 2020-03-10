@@ -73,7 +73,7 @@
 | [16956](https://www.acmicpc.net/problem/16956) | [cpp](백준/16956.cpp)|[17095](https://www.acmicpc.net/problem/17095) | [cpp](백준/17095.cpp)|[17135](https://www.acmicpc.net/problem/17135) | [cpp](백준/17135.cpp)|
 | [17204](https://www.acmicpc.net/problem/17204) | [cpp](백준/17204.cpp)|[17269](https://www.acmicpc.net/problem/17269) | [cpp](백준/17269.cpp)|[17293](https://www.acmicpc.net/problem/17293) | [cpp](백준/17293.cpp)|
 | [17389](https://www.acmicpc.net/problem/17389) | [cpp](백준/17389.cpp)|[17436](https://www.acmicpc.net/problem/17436) | [cpp](백준/17436.cpp)|
-| [3860](https://www.acmicpc.net/problem/3860) | [cpp](백준/3860.cpp)|[10542](http://www.acmicpc.net/problem/10542) | [cpp](백준/10542.cpp)|
+| [3860](https://www.acmicpc.net/problem/3860) | [cpp](백준/3860.cpp)|[10542](http://www.acmicpc.net/problem/10542) | [cpp](백준/10542.cpp)|[2931](http://www.acmicpc.net/problem/2931) | [cpp](백준/2931.cpp)|
  
 ### 프로그래머
 | 문제 | 코드 | 문제 | 코드 |
