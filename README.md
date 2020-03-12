@@ -76,7 +76,7 @@
 | [3860](https://www.acmicpc.net/problem/3860) | [cpp](백준/3860.cpp)|[10542](http://www.acmicpc.net/problem/10542) | [cpp](백준/10542.cpp)|[2931](http://www.acmicpc.net/problem/2931) | [cpp](백준/2931.cpp)|
 | [2146](http://www.acmicpc.net/problem/2146) | [cpp](백준/2146.cpp)|
  
-### 프로그래머
+### 프로그래머스
 | 문제 | 코드 | 문제 | 코드 |
 | ------------- |:-------------:|:-------------:|:-------------:|
 | [2*n 타일링](https://programmers.co.kr/learn/courses/30/lessons/12900) | [cpp](프로그래머스/2n타일링.cpp)| [3*n 타일링](https://programmers.co.kr/learn/courses/30/lessons/12902) | [cpp](프로그래머스/3n타일링.cpp)|
