@@ -17,7 +17,7 @@
   - [해커랭크](https://www.hackerrank.com/)  
 
 ## 백준 레벨별 테스트 사이트 
-  - [Solved](solved.ac)
+  - [Solved](https://solved.ac/problems/level)
 
 ## 풀이 완료한 문제 
 ### 백준
