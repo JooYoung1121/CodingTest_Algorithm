@@ -16,6 +16,9 @@
   - [삼성 아카데미](https://swexpertacademy.com/main/main.do)  
   - [해커랭크](https://www.hackerrank.com/)  
 
+## 백준 레벨별 테스트 사이트 
+  - [Solved](solved.so)
+
 ## 풀이 완료한 문제 
 ### 백준
 ## 3/4 기준으로 푼 순서대로 입력하겠습니다.
