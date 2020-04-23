@@ -79,7 +79,7 @@
 | [2146](http://www.acmicpc.net/problem/2146) | [cpp](백준/2146.cpp)|[2157](http://www.acmicpc.net/problem/2157) | [cpp](백준/2157.cpp) | [1038](http://www.acmicpc.net/problem/1038) | [cpp](백준/1038.cpp) 
 | [1242](http://www.acmicpc.net/problem/1242) | [cpp](백준/1242.cpp) | [12100](http://www.acmicpc.net/problem/12100) | [cpp](백준/12100.cpp) | [13458](http://www.acmicpc.net/problem/13458) | [cpp](백준/13458.cpp)
 | [14499](http://www.acmicpc.net/problem/14499) | [cpp](백준/14499.cpp) | [17822](http://www.acmicpc.net/problem/17822)  | [cpp](백준/17822.cpp) | [14891](http://www.acmicpc.net/problem/14891) | [cpp](백준/14891.cpp)
-| [17779](http://www.acmicpc.net/problem/17779) | [cpp](백준/17779.cpp) |
+| [17779](http://www.acmicpc.net/problem/17779) | [cpp](백준/17779.cpp) | [17143](http://www.acmicpc.net/problem/17143) | [cpp](백준/17143.cpp) | 
  
 ### 프로그래머스
 | 문제 | 코드 | 문제 | 코드 |
