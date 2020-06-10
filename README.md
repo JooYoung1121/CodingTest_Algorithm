@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJooYoung1121%2FCodingTest_Algorithm)](https://hits.seeyoufarm.com)
+
 # 코테 대비 
 
 ## 알고리즘 공부하면서 풀었던 문제들을 업로드하고 있습니다.
