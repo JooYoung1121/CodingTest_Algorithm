@@ -5,7 +5,6 @@
 #include <algorithm>
 using namespace std;
 
-#define MAX 100001
 typedef pair<int, int> p;
 
 int N, Result = 0;
@@ -35,7 +34,6 @@ int main() {
 		pq.push({ a,b });
 	}
 
-	
 	p first = pq.top();
 	pq.pop();
 
