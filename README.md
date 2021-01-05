@@ -8,7 +8,7 @@
 
  - 참고가 되셨다면 스타 부탁드려요!!
  
-## 백준, 프로그래머스, 삼성 아카데미, 해커랭크 문제 풀이 업로드 하는 중입니다. 
+## 백준, 프로그래머스, 삼성 아카데미, 해커랭크,  문제 풀이 업로드 하는 중입니다. 
  - C++ 위주로 준비했습니다. 
  
 
@@ -17,6 +17,7 @@
   - [프로그래머스](https://programmers.co.kr/learn/challenges)  
   - [삼성 아카데미](https://swexpertacademy.com/main/main.do)  
   - [해커랭크](https://www.hackerrank.com/)  
+  - [릿코드](https://leetcode.com/)
 
 ## 백준 레벨별 테스트 사이트 
   - [Solved](https://solved.ac/problems/level)
