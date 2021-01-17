@@ -129,7 +129,8 @@
 | [불량 사용자](https://programmers.co.kr/learn/courses/30/lessons/64064) | [cpp](프로그래머스/불량_사용자.cpp)| [징검다리 건너기](https://programmers.co.kr/learn/courses/30/lessons/64062) | [cpp](프로그래머스/징검다리_건너기.cpp)
 
 ### 이후에 카카오 코테 내용들 업로드 예정입니다
- 
+
+근데 안할거 같기도 하고..
 
 
 ### 삼성 아카데미
