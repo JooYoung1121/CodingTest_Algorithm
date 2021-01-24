@@ -8,14 +8,13 @@
 
  - 참고가 되셨다면 스타 부탁드려요!!
  
-## 백준, 프로그래머스, 삼성 아카데미,  릿코드 문제 풀이 업로드 하는 중입니다. 
+## 백준, 프로그래머스, 릿코드 문제 풀이 업로드 하는 중입니다. 
  - C++ 위주로 준비했습니다. 
  
 
 ## 공부한 알고리즘 사이트 
   - [백준](https://www.acmicpc.net)  
   - [프로그래머스](https://programmers.co.kr/learn/challenges)  
-  - [삼성 아카데미](https://swexpertacademy.com/main/main.do)  
   - [해커랭크](https://www.hackerrank.com/)  
   - [릿코드](https://leetcode.com/)
 
@@ -133,9 +132,6 @@
 
 근데 안할거 같기도 하고..
 
-
-### 삼성 아카데미
-  - 확인중
 
   
 ### 릿코드
